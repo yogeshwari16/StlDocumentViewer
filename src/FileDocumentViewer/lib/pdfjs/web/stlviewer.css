@@ -1,0 +1,18 @@
+#stlviewer {
+	width: 100%;
+	height: auto;
+	min-height: 100px;
+	border: 1px solid grey;
+}
+
+body {
+	background-color: black;
+}
+
+#message {
+	color:grey;
+}
+
+.settings {
+	color: grey;
+}
